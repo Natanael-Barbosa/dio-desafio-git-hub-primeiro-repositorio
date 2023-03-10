@@ -1,0 +1,2 @@
+alguns comando do git
+ https://githowto.com/pt-BR/git_internals_git_directory
